@@ -501,7 +501,7 @@ Through this project, I learned:
 
 **Adarsh Sharma**
 
-GitHub: Add your GitHub profile URL here.
+
 
 ---
 
